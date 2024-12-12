@@ -6,7 +6,7 @@ Roni's Analytics is an analytical user-friendly and business-facing dashboard th
 # How to Use
 First run:
 
-   git clone https link
+   git clone "https link"
 
 Run app.py
 
