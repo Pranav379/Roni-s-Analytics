@@ -128,10 +128,8 @@ countItem_dict = {
 def load_data(file_name):
     try:
         with open(file_name, 'r', encoding='utf-8') as file:
-            # Read the file content, split by lines, and then split each line by commas
             data_list = [line.split(',') for line in file.read().split('\n')]
     except UnicodeDecodeError:
-        # Fallback to ISO-8859-1 encoding if UTF-8 fails
         with open(file_name, 'r', encoding='ISO-8859-1') as file:
             data_list = [line.split(',') for line in file.read().split('\n')]
 
@@ -155,9 +153,7 @@ september_data_List = load_data('september_2024.csv')
 
 allMonths_data = []
 allMonths_data = april_data_List + may_data_List + june_data_List + july_data_List + august_data_List + september_data_List + october_data_List 
-#print(allMonths_data)
-
-#Order #,Sent Date,Modifier,Option Group Name,Parent Menu Selection,Order ID indexes 
+ 
 Order_num = 0
 Sent_Date = 1
 Modifier = 2
