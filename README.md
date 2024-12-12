@@ -10,7 +10,7 @@ To download all of the files, first run:
 
 Run app.py
 
-Copy and paste the command printed by the string into your local browser:
+Copy and paste the command printed by the following string into your local browser:
 
     streamlit run "path"app.py
 
