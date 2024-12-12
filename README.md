@@ -12,7 +12,7 @@ We used several Python libraries to write our code and Streamlit for a dashboard
 2. **Run app.py**: Use the provided "app.py" function to generate the dashboard.
 3. **Paste this Command Printed by the Terminal into Your Local Browser**: ```streamlit run path/app.py ```
 
-The dashbaord should now be visible and be able to interact with!
+The dashboard should now be visible and be able to interact with!
 
 ## Contributors
 - Pranav Gaddam
