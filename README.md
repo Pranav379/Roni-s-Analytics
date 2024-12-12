@@ -10,7 +10,7 @@ Run app.py
 
 Copy and paste the command printed by the string into your local browser:
 
-  streamlit run "path"app.py
+    streamlit run "path"app.py
 
 The dashboard should now be visible and able to interact with!
 
