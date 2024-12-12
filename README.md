@@ -7,7 +7,7 @@ Roni's Analytics is an analytical user-friendly and business-facing dashboard th
 We used several Python libraries to write our code and Streamlit for a dashboard visualization.
 
 # Installation and Usage
-1. **Clone the Repository**
+1. **Clone the Repository**: git clone 
 
 # Contributors
 - Pranav Gaddam
