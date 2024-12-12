@@ -6,7 +6,7 @@ Roni's Analytics is an analytical user-friendly and business-facing dashboard th
 # How to Use
 To download all of the files, first run:
 
-      git clone "https link"
+    git clone "https link"
 
 Run app.py
 
