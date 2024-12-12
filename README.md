@@ -10,7 +10,7 @@ We used several Python libraries to write our code and Streamlit for a dashboard
 ## Installation and Usage
 1. **Clone the Repository**: ```git clone https://github.com/Pranav379/Roni-s-Analytics.git```
 2. **Run app.py**: Use the provided "app.py" function to generate the dashboard.
-3. **Paste this Command Printed by the Terminal into Your Local Browser**: ```streamlit run path/app.py ```
+3. **Paste this Command Printed by the Terminal into Your Local Browser**: ```streamlit run `local path`app.py ```
 
 The dashboard should now be visible and be able to interact with!
 
