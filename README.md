@@ -4,6 +4,8 @@ This repository contains the code that earned 1st place for the Roni's Challenge
 Roni's Analytics is an analytical user-friendly and business-facing dashboard that provides useful insights into restaurant sales, consumer preferences, and key trends. This dashboard includes insightful visualizations, graphs from Google Trends, and even an interactive chatbot.
 
 # How to Use
+First run:
+
    git clone https link
 
 Run app.py
