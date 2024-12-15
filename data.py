@@ -142,13 +142,13 @@ def load_data(file_name):
     return data_list
 
 # Loading data for each month using the function into a list of lists
-april_data_List = load_data('april_2024.csv')
-august_data_List = load_data('august_2024.csv')
-july_data_List = load_data('july_2024.csv')
-june_data_List = load_data('june_2024.csv')
-may_data_List = load_data('may_2024.csv')
-october_data_List = load_data('october_2024.csv')
-september_data_List = load_data('september_2024.csv')
+april_data_List = load_data('monthly_data/april_2024.csv')
+august_data_List = load_data('monthly_data/august_2024.csv')
+july_data_List = load_data('monthly_data/july_2024.csv')
+june_data_List = load_data('monthly_data/june_2024.csv')
+may_data_List = load_data('monthly_data/may_2024.csv')
+october_data_List = load_data('monthly_data/october_2024.csv')
+september_data_List = load_data('monthly_data/september_2024.csv')
 
 
 allMonths_data = []
